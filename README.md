@@ -1,2 +1,1 @@
-# Exequielsosa
-Aprendiendo a hacer solo
+Todos los cambio ya estan hechos
